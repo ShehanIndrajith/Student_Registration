@@ -1,0 +1,26 @@
+E:\resturant\Skills_International\Skills_International\bin\Debug\Skills_International.exe.config
+E:\resturant\Skills_International\Skills_International\bin\Debug\Skills_International.exe
+E:\resturant\Skills_International\Skills_International\bin\Debug\Skills_International.pdb
+E:\resturant\Skills_International\Skills_International\bin\Debug\Guna.UI2.dll
+E:\resturant\Skills_International\Skills_International\obj\Debug\Skills_International.csproj.AssemblyReference.cache
+E:\resturant\Skills_International\Skills_International\obj\Debug\Skills_International.LoginForm.resources
+E:\resturant\Skills_International\Skills_International\obj\Debug\Skills_International.Properties.Resources.resources
+E:\resturant\Skills_International\Skills_International\obj\Debug\Skills_International.RegistrationForm.resources
+E:\resturant\Skills_International\Skills_International\obj\Debug\Skills_International.csproj.GenerateResource.cache
+E:\resturant\Skills_International\Skills_International\obj\Debug\Skills_International.csproj.CoreCompileInputs.cache
+E:\resturant\Skills_International\Skills_International\obj\Debug\Skills_International.csproj.CopyComplete
+E:\resturant\Skills_International\Skills_International\obj\Debug\Skills_International.exe
+E:\resturant\Skills_International\Skills_International\obj\Debug\Skills_International.pdb
+E:\Esoft Final Project\Skills_International\Skills_International\bin\Debug\Skills_International.exe.config
+E:\Esoft Final Project\Skills_International\Skills_International\bin\Debug\Skills_International.exe
+E:\Esoft Final Project\Skills_International\Skills_International\bin\Debug\Skills_International.pdb
+E:\Esoft Final Project\Skills_International\Skills_International\bin\Debug\Guna.UI2.dll
+E:\Esoft Final Project\Skills_International\Skills_International\obj\Debug\Skills_International.csproj.AssemblyReference.cache
+E:\Esoft Final Project\Skills_International\Skills_International\obj\Debug\Skills_International.LoginForm.resources
+E:\Esoft Final Project\Skills_International\Skills_International\obj\Debug\Skills_International.Properties.Resources.resources
+E:\Esoft Final Project\Skills_International\Skills_International\obj\Debug\Skills_International.RegistrationForm.resources
+E:\Esoft Final Project\Skills_International\Skills_International\obj\Debug\Skills_International.csproj.GenerateResource.cache
+E:\Esoft Final Project\Skills_International\Skills_International\obj\Debug\Skills_International.csproj.CoreCompileInputs.cache
+E:\Esoft Final Project\Skills_International\Skills_International\obj\Debug\Skills_International.csproj.CopyComplete
+E:\Esoft Final Project\Skills_International\Skills_International\obj\Debug\Skills_International.exe
+E:\Esoft Final Project\Skills_International\Skills_International\obj\Debug\Skills_International.pdb
